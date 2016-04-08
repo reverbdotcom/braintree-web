@@ -20,9 +20,10 @@
     "payments"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/braintree/braintree-web",
+  "homepage": "https://github.com/braintree/braintree-web"
   "ignore": [
     "*",
-    "!dist/braintree.js"
+    "!dist/braintree.js",
+    "!lib/index.js"
   ]
 }
