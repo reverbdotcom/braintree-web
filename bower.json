@@ -5,7 +5,7 @@
     "braintree <code@getbraintree.com>"
   ],
   "description": "A suite of tools for integrating Braintree in the browser",
-  "main": "dist/braintree.js",
+  "main": "lib/index.js",
   "moduleType": [
     "amd",
     "globals",
